@@ -1,0 +1,49 @@
+body{
+  width: 1400px;
+  height: 1000px;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-image: url(X-Maxx-8S-Gallery-Detail_0001.jpg);
+  background-color: lightblue;
+}
+
+header{
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 3px 3px 2px #558ABB;;
+}
+h1{
+margin-top: -50px;
+}
+#home{
+  margin-top: -1100px;
+}
+#one{
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+  height: 400px;
+  width: 250px;
+
+}
+#truckpic{
+  height: 250px;
+  width: 400px;
+  margin-top: 250px;
+}
+#truckpicwater{
+  height: 250px;
+  width: 400px;
+  margin-left: 1100px;
+  margin-top: -50px;
+}
+#two{
+  height: 50px;
+  width: 200px;
+  margin-left: 850px;
+  margin-top: -200px;
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+}
